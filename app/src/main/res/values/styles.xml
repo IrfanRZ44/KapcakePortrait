@@ -1,0 +1,44 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="Theme.Design.CustomNoActionBar" parent="Theme.AppCompat.NoActionBar" >
+        <item name="android:windowAnimationStyle">@null</item>
+        <item name="colorPrimary">@color/customThemeAccent</item>
+        <item name="colorPrimaryDark">@color/customThemePrimaryDark</item>
+        <item name="colorAccent">@color/customThemeAccent</item>
+        <item name="android:colorBackground">@color/customThemeBackground</item>
+        <item name="android:colorForeground">@color/customThemeForeground</item>
+        <item name="android:windowBackground">@color/putih</item>
+
+    </style>
+
+    <style name="MyProgressDialogTheme" parent="ThemeOverlay.AppCompat.Dialog.Alert">
+        <item name="android:background">@android:color/white</item>
+        <item name="android:textColorPrimary">@color/hitamGray</item>
+        <item name="android:textColorSecondary">@color/hitam</item>
+        <item name="android:textColor">@color/hitam</item>
+    </style>
+
+
+    <style name="MaterialDesign2" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <item name="colorPrimary">@color/customThemeAccent</item>
+        <item name="colorPrimaryDark">@color/customThemeAccent</item>
+        <item name="colorAccent">@color/customThemeAccent</item>
+        <item name="buttonStyle">@drawable/border_round_full_orange</item>
+    </style>
+
+    <style name="myCustomText" parent="Widget.MaterialComponents.TextInputLayout.OutlinedBox">
+        <item name="boxBackgroundColor">@android:color/transparent</item>
+        <item name="boxStrokeColor">@android:color/transparent</item>
+        <item name="boxStrokeWidth">0dp</item>
+
+    </style>
+
+</resources>

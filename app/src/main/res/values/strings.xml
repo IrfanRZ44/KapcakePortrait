@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Kapcake Portrait</string>
+
+    <string name="splash">Selamat Datang di Kapcake</string>
+    <string name="hint_auth_pin">A managers PIN is required to enter starting cash</string>
+    <string name="sign_in1">Masuk ke Kapcake</string>
+    <string name="sign_in2">Silahkan Masukkan Email dan Password</string>
+
+    <string name="text_email">Email</string>
+    <string name="text_email2">Email Anda...</string>
+    <string name="text_pass">Password</string>
+    <string name="text_pass2">Password Anda...</string>
+    <string name="text_berhasil_logout">Anda telah keluar</string>
+
+    <string name="text_login">Masuk</string>
+    <string name="text_sign_up">Buat Akun</string>
+    <string name="text_halo">Halo, </string>
+    <string name="text_default">Silahkan masukkan PIN, default PIN : 1111</string>
+
+    <string name="text_nothing_account">Belum punya akun?</string>
+
+    <string name="digit_pass">asdfghjklqwertyuiopzxcvbnmASDFGHJKLQWERTYUIOPZXCVBNM1234567890 </string>
+
+    <string name="error_data_kosong">Tidak boleh kosong</string>
+    <string name="error_password_kurang">Minimal 6 Karakter</string>
+    <string name="error_email_not_found">Email atau Password yang anda masukkan salah</string>
+    <string name="error_pin_salah">Pin salah</string>
+
+    <string name="time_count_down">Silahkan coba</string>
+    <string name="time_count_down2">detik lagi</string>
+
+    <string name="progress_title1">Mohon Tunggu...</string>
+    <string name="progress_text1">Proses</string>
+    <string name="sharedPreferences_token">sharedPreferences_token</string>
+    <string name="lupa_password">Lupa kata sandi?</string>
+    <string name="teks_login">Tingkatkan pendapatan usaha Anda dengan Kapcake POS</string>
+    <string name="please_login_to_continue_using_our_app">Silahkan masukkan Email dan Password</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+</resources>
